@@ -1,0 +1,9 @@
+
+
+
+view=> action=> state
+redux
+=======
+
+
+view=> action=> dispatch=>reducer=>store data update
